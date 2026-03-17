@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=3776AB&height=150&section=header&text=snehalpalaskar&fontSize=70&animation=fadeIn" />
+  <img src="https://webandcrafts.com/_next/image?url=https%3A%2F%2Fadmin.wac.co%2Fuploads%2FFeatures_Of_Python_1_f4ccd6d9f7.jpg&w=4500&q=90" />
 
   <h1>Hi 👋, I'm Snehal</h1>
   <h3>🐍 Python Developer | 💻 Logic Enthusiast | 🚀 </h3>
