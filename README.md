@@ -1,64 +1,60 @@
-<h1 align="center">Hi 👋, I'm Ganesh</h1>
-<h3 align="center">🐍 Python Learner | 🧪 Software Testing Enthusiast | 🚀 Fresher</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=3776AB&height=150&section=header&text=snehalpalaskar&fontSize=70&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Python+Developer+in+Progress;Automation+Testing+Learner;Future+QA+Engineer">
-</p>
+  <h3>🐍 Python Developer in the Making | 💻 Code Enthusiast | 🚀 Fresher</h3>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=3776AB&size=25&center=true&vCenter=true&width=600&lines=Python+Developer+in+Progress;Logic+Building+%26+Problem+Solving;Clean+Code+Learner;Welcome+to+my+Profile">
+  </p>
+</div>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Fresher passionate about **Python & Software Testing**
-- 🌱 Currently learning **Python, Selenium, and Automation Testing**
-- 💡 Interested in **Backend Development & QA**
+- 🎓 Fresher focused on mastering **Python Development**
+- 🌱 Currently deep-diving into **Data Structures and Pythonic Logic**
+- 💡 Passionate about building efficient **Backend Solutions**
 - 📍 Based in India  
-- 📫 Reach me: your@email.com  
+- 📫 Reach me: **your@email.com**
 
 ---
 
-## 🛠️ Skills
-<p>
+## 🛠️ Core Skills
+<p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Testing-Manual-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Selenium-Automation-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HTML-CSS-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Logic_Building-Expertise-FFD43B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=snehalpalaskar&show_icons=true&theme=dark" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=snehalpalaskar&theme=dark" height="170" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
-## 📂 Projects
-- 🔹 Python Mini Projects (Palindrome, Patterns, Conversion)
-- 🔹 Registration Form (JSP + Database)
-- 🔹 Selenium Automation Practice
+## 📂 Python Projects
+- 🔹 **Logic-Based Scripts** – Collection of algorithms focusing on Palindromes, Fibonacci, and Pattern printing.
+- 🔹 **Data Handling** – Python scripts for basic data manipulation and file I/O operations.
+- 🔹 **Automation Scripts** – Simple Python utilities to automate repetitive desktop tasks.
 
 ---
 
 ## 🎯 Career Objective
-> To start my career as a Python Developer or Software Tester where I can grow my skills and contribute to real-world projects.
+> To start my journey as a **Python Developer**, utilizing my problem-solving skills to write clean, scalable, and efficient code.
 
 ---
 
 ## 🌐 Connect With Me
-<p>
-<a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a>
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 ## ⚡ Fun Fact
-> I love solving problems and learning new technologies every day 🚀
+> In Python, "Beautiful is better than ugly." I strive to make my code live up to that! 🐍
