@@ -5,7 +5,7 @@
   <h3>🐍 Python Developer | 💻 Logic Enthusiast | 🚀 </h3>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=3776AB&size=25&center=true&vCenter=true&width=600&lines=Python+Developer+in+Progress;Building+with+Clean+Logic;Focusing+on+Backend+Excellence;Welcome+to+my+Profile">
+   
   </p>
 </div>
 
