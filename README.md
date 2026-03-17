@@ -4,9 +4,7 @@
   <h1>Hi 👋, I'm Snehal</h1>
   <h3>🐍 Python Developer | 💻 Logic Enthusiast | 🚀 </h3>
 
-  <p align="center">
-   
-  </p>
+
 </div>
 
 ---
