@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://webandcrafts.com/_next/image?url=https%3A%2F%2Fadmin.wac.co%2Fuploads%2FFeatures_Of_Python_1_f4ccd6d9f7.jpg&w=4500&q=90" />
+  <img src="https://webandcrafts.com/_next/image?url=https%3A%2F%2Fadmin.wac.co%2Fuploads%2FFeatures_Of_Python_1_f4ccd6d9f7.jpg&w=4500&q=90" width="400" style="border-radius: 10px;" />
 
   <h1>Hi 👋, I'm Snehal</h1>
-  <h3>🐍 Python Developer | 💻 Logic Enthusiast | 🚀 </h3>
-
-
+  <h3>🐍 Python Developer | 💻 Logic Enthusiast | 🚀 Fresher </h3>
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=3776AB&size=22&center=true&vCenter=true&width=400&lines=Python+Enthusiast;Clean+Code+Learner;Problem+Solver">
+  </p>
 </div>
 
 ---
